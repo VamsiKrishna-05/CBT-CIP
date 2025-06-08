@@ -1,19 +1,30 @@
-# Library Catalog System
+# 📚 Library Catalogue System
 
-A simple console-based Java application to manage a collection of books in a library.
+A simple yet powerful Java application that allows users to manage a collection of books using both a Command-Line Interface (CLI) and a Graphical User Interface (GUI) built with Swing.
 
-## Features
+## ✨ Features
 
-- Add new books with details: ISBN, Title, Author, and Year
-- Prevent duplicate ISBN entries
-- Search books by Title or Author
-- List all available books
-- Update existing book details
-- Delete books from the catalog
-- Sort books by Title or Author
-- Save and load books data from a text file (`books.txt`)
-- Fast book lookup using `HashMap`
-- Menu-driven command-line interface
+- ✅ Add new books to the catalog
+- 🔍 Search books by **Title** or **Author**
+- 📋 List all books
+- ✏️ Update book details by ISBN
+- ❌ Delete books from the catalog
+- 🖥️ GUI support for a more user-friendly experience
+- 💾 Uses `HashMap` for fast lookup based on ISBN
+
+---
+
+## 🧱 Project Structure
+
+```bash
+LibraryCatalogSystem/
+│
+├── Book.java             # Book model class
+├── Library.java          # Core logic (add, search, update, delete)
+├── LibraryApp.java       # CLI interface
+├── LibraryGUIApp.java    # GUI using Java Swing
+└── background.png        # (Optional) background image for GUI
+
 
 ## How to Run
 
