@@ -35,7 +35,8 @@ public class Library {
                 found = true;
             }
         }
-        if (!found) System.out.println("No books found with title: " + title);
+        if (!found)
+            System.out.println("No books found with title: " + title);
     }
 
     public void searchByAuthor(String author) {
@@ -46,7 +47,8 @@ public class Library {
                 found = true;
             }
         }
-        if (!found) System.out.println("No books found by author: " + author);
+        if (!found)
+            System.out.println("No books found by author: " + author);
     }
 
     public void sortByTitle() {
@@ -95,7 +97,8 @@ public class Library {
 
     private void loadFromFile() {
         File file = new File(FILE_NAME);
-        if (!file.exists()) return;
+        if (!file.exists())
+            return;
 
         try (BufferedReader br = new BufferedReader(new FileReader(file))) {
             String line;
