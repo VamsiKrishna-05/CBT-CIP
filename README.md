@@ -31,3 +31,8 @@ LibraryCatalogSystem/
 1. Compile all Java files:
    ```bash
    javac *.java
+---
+```
+The added Gui with a Professional Background
+![image](https://github.com/user-attachments/assets/a171140d-cc63-43cb-9f3f-1d9379b251f7)
+
