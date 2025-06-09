@@ -1,2 +1,57 @@
-The Diary of a Wimpy Kid,Jeff Kinney,978-0-14-330383-1
-Harry Potter and the Philosopher's Stone,J.K Rowling,978-0-7475-3269-9
+Diary of a Wimpy Kid,Jeff Kinney,978-0-14-330383-1
+Harry Potter and The Philosopher's Stone,J K Rowling,978-0-7475-3269-9
+Harry Potter and the Prisoner of Azkaban,J K Rowling,0-7475-4215-5
+Harry Potter and the Half-Blood Prince,J K Rowling,0-7475-8108-8
+Harry Potter and the Goblet of Fire,J K Rowling,0-7475-5079-4
+Harry Potter and the Chamber of Secrets,J K Rowling,0-7475-3849-2
+Harry Potter and the Order of the Phoenix,J K Rowling,0-7475-5100-6
+Rich Dad Poor Dad,Robert Kiyosaki,0-446-67745-0
+The Alchemist,Paulo Coelho,978-0-06-112241-5
+To Kill a Mockingbird,Harper Lee,978-0-06-112008-4
+1984,George Orwell,978-0-452-28423-4
+Animal Farm,George Orwell,978-0-452-28424-1
+Pride and Prejudice,Jane Austen,978-0-14-143951-8
+The Great Gatsby,F. Scott Fitzgerald,978-0-7432-7356-5
+The Catcher in the Rye,J.D. Salinger,978-0-316-76948-0
+The Book Thief,Markus Zusak,978-0-375-84220-7
+The Hunger Games,Suzanne Collins,978-0-439-02352-8
+Catching Fire,Suzanne Collins,978-0-439-02349-8
+Mockingjay,Suzanne Collins,978-0-439-02351-1
+Twilight,Stephenie Meyer,978-0-316-01584-6
+New Moon,Stephenie Meyer,978-0-316-16017-1
+Eclipse,Stephenie Meyer,978-0-316-16018-8
+Breaking Dawn,Stephenie Meyer,978-0-316-06792-9
+The Fault in Our Stars,John Green,978-0-525-47881-2
+Looking for Alaska,John Green,978-0-14-240251-1
+Paper Towns,John Green,978-0-14-241493-4
+The Hobbit,J.R.R. Tolkien,978-0-618-00221-3
+The Fellowship of the Ring,J.R.R. Tolkien,978-0-618-00222-0
+The Two Towers,J.R.R. Tolkien,978-0-618-00223-7
+The Return of the King,J.R.R. Tolkien,978-0-618-00224-4
+A Game of Thrones,George R. R. Martin,978-0-553-89785-2
+A Clash of Kings,George R. R. Martin,978-0-553-57990-2
+A Storm of Swords,George R. R. Martin,978-0-553-10663-4
+A Feast for Crows,George R. R. Martin,978-0-553-80150-8
+A Dance with Dragons,George R. R. Martin,978-0-553-80147-8
+The Da Vinci Code,Dan Brown,978-0-385-50420-8
+Angels and Demons,Dan Brown,978-0-7432-7506-4
+Inferno,Dan Brown,978-0-385-53785-5
+The Lost Symbol,Dan Brown,978-0-385-50422-2
+Digital Fortress,Dan Brown,978-0-312-99542-3
+Deception Point,Dan Brown,978-0-7432-7507-1
+The Girl with the Dragon Tattoo,Stieg Larsson,978-0-307-45454-6
+The Girl Who Played with Fire,Stieg Larsson,978-0-307-45455-3
+The Girl Who Kicked the Hornet's Nest,Stieg Larsson,978-0-307-45456-0
+Life of Pi,Yann Martel,978-0-15-602732-8
+The Kite Runner,Khaled Hosseini,978-1-59448-000-3
+A Thousand Splendid Suns,Khaled Hosseini,978-1-59448-385-1
+And the Mountains Echoed,Khaled Hosseini,978-1-59463-238-9
+The Secret,Rhonda Byrne,978-1-58270-170-7
+The Power,Rhonda Byrne,978-1-4391-7999-8
+Think and Grow Rich,Napoleon Hill,978-1-59330-200-9
+Outliers,Malcolm Gladwell,978-0-316-01792-5
+Atomic Habits,James Clear,978-0-7352-1129-6
+Sapiens,Yuval Noah Harari,978-0-06-231609-7
+Homo Deus,Yuval Noah Harari,978-0-06-246431-6
+21 Lessons for the 21st Century,Yuval Noah Harari,978-0-525-51217-2
+Ikigai,Héctor García and Francesc Miralles,978-0-14-313072-7

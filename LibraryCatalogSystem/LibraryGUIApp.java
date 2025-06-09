@@ -13,7 +13,7 @@ public class LibraryGUIApp {
 
         // Panel with background image
         JPanel panel = new JPanel() {
-            Image bg = new ImageIcon("background.png").getImage(); // Replace with your image path
+            Image bg = new ImageIcon("background1.png").getImage(); // Replace with your image path
 
             public void paintComponent(Graphics g) {
                 super.paintComponent(g);
